@@ -1,0 +1,5 @@
+*.html
+pkg
+*.swp
+tmp
+Gemfile.lock
